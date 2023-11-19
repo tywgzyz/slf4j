@@ -10,4 +10,5 @@ public class EventConstants {
     public static final int TRACE_INT = LocationAwareLogger.TRACE_INT;
     public static final String NA_SUBST = "NA/SubstituteLogger";
 
+
 }
